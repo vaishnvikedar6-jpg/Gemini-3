@@ -1,6 +1,7 @@
 EduResolve Pro: AI-Enhanced Grievance Redressal
 
-Live demo:
+Live demo:https://vaishnvikedar6-jpg.github.io/Gemini-3/
+
 A unified communication bridge between Students, Departments, and Administration.
 
 🚀 The Vision
